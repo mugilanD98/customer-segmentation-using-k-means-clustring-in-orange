@@ -1,4 +1,4 @@
-#Description
+#Description:
 Performed customer segmentation based on customers
 purchasing behavior in order to understand customer needs
 better and take business decision
